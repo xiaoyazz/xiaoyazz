@@ -37,7 +37,7 @@ It's good to see you!
 <h2>Goals 👩‍💻</h2>
 
 - Become a full-stack web developer
-- Stay passinate & creative
+- Stay passionate & creative
 - Never stop learning
 
 ###
