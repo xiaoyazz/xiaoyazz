@@ -2,7 +2,7 @@
 
 It's good to see you!
 
-- I'm a second-year student from [Sheridan College](https://www.sheridancollege.ca/)
+- I'm a second-year student at [Sheridan College](https://www.sheridancollege.ca/)
 - Currently I'm working as a co-op in [Ontario Ministry of Government and Consumer Services](https://www.ontario.ca/page/ministry-government-and-consumer-services)
 - I love coding & UX/UI design 🤓
 
