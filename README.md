@@ -8,24 +8,29 @@ It's good to see you!
 
 ###
 
+    using System;
+
     namespace AboutMe
-    {
-        class Program
+    {   
+        class Me
         {
+            string name = "Xiaoya Zou";
+            string firstName = "My first name can be pronounced as 'Shiao-ya'🙂";
+            string education = "Software Development & Network Engineering Student at Sheridan College";
+            string coop = "Low-code Application Developer (Jan 2022 - Present)";
+            string greetings = "✨ Thanks for dropping by ✨";
+
             static void Main(string[] args)
             {
-                string name = "Xiaoya Zou";
-                string firstName = "My first name can be pronounced as Shiao-ya 🙂";
-                string education = "Software Development & Network Engineering Student at Sheridan College";
-                string coop = "Low-code Application Developer (Jan 2022 - Present)";
-                Console.WriteLine("Thank you for dropping by ✨");    
+                Me Xiaoya = new Me();
+                Console.WriteLine(Xiaoya.greetings);
             }
         }
     }
 
 ###
 
-<h2>Skills 🌱</h2>
+<h2>👾 Skills</h2>
 
 - `Java` `C#` `PHP` `JavaScript` `HTML` `CSS` `Vue.js` `ASP.NET MVC` `Bootstrap`
 - `SQL` `MySQL` `MongoDB`
@@ -34,7 +39,7 @@ It's good to see you!
 
 ###
 
-<h2>Goals 👩‍💻</h2>
+<h2>🌟 Goals</h2>
 
 - Become a full-stack web developer
 - Stay passionate & creative
@@ -42,7 +47,7 @@ It's good to see you!
 
 ###
 
-<h2>Interests 💜</h2>
+<h2>🎮 Interests</h2>
 
 - Reading
 - Movies (Louis Malle/Sean Baker/Ming-liang Tsai)
@@ -52,7 +57,7 @@ It's good to see you!
 
 ###
 
-<h2>Connect 🌎</h2>
+<h2>🌎 Connect</h2>
 
 [![GITHUB](https://img.shields.io/badge/inkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xiaoyazou/)
 [![GMAIL](https://img.shields.io/badge/GMAIL-%23EA4335.svg?&style=for-the-badge&logo=GMAIL&logoColor=white)](mailto:xiaoyaxyz@gmail.com)
