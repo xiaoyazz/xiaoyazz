@@ -1,10 +1,7 @@
+
 ### <h1>Hey 👋 I'm Xiaoya</h1>
 
-It's good to see you!
-
-- I'm a second-year student at [Sheridan College](https://www.sheridancollege.ca/)
-- Currently I'm working as a co-op in [Ontario Ministry of Government and Consumer Services](https://www.ontario.ca/page/ministry-government-and-consumer-services)
-- I love coding & UX/UI design 🤓
+<p align="center"><img src="https://user-images.githubusercontent.com/84748829/167523910-88bcce5d-e171-4afa-af20-faa9362b4df1.GIF" width="220"></p>
 
 ###
 
@@ -27,6 +24,14 @@ It's good to see you!
             }
         }
     }
+    
+### 
+
+<h2>👩‍💻 About Me</h2>
+
+- I'm a second-year student at [Sheridan College](https://www.sheridancollege.ca/)
+- Currently I'm working as a co-op in [Ontario Ministry of Government and Consumer Services](https://www.ontario.ca/page/ministry-government-and-consumer-services)
+- I love coding & UX/UI design 🤓
 
 ###
 
@@ -61,3 +66,5 @@ It's good to see you!
 
 [![GITHUB](https://img.shields.io/badge/inkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xiaoyazou/)
 [![GMAIL](https://img.shields.io/badge/GMAIL-%23EA4335.svg?&style=for-the-badge&logo=GMAIL&logoColor=white)](mailto:xiaoyaxyz@gmail.com)
+
+
