@@ -64,6 +64,4 @@
 <h2>🌎 Connect</h2>
 
 [![GITHUB](https://img.shields.io/badge/inkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xiaoyazou/)
-[![GMAIL](https://img.shields.io/badge/GMAIL-%23EA4335.svg?&style=for-the-badge&logo=GMAIL&logoColor=white)](mailto:xiaoyaxyz@gmail.com)
-
 
