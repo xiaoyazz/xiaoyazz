@@ -1,13 +1,14 @@
 
 ### <h1>Hey 👋 I'm Xiaoya</h1>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/84748829/167523910-88bcce5d-e171-4afa-af20-faa9362b4df1.GIF" width="220"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/84748829/167641084-10e8231b-0087-4bcc-95ac-0975da71d81f.GIF" width="220"></p>
 
 ###
     namespace AboutMe
+
     {   
         class Me
-        {
+
             string name = "Xiaoya Zou";
             string firstName = "My first name can be pronounced as 'Shiao-ya'🙂";
             string education = "Software Development & Network Engineering Student at Sheridan College";
