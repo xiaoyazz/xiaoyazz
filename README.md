@@ -51,7 +51,7 @@
 
 ###
 
-<h2>🎮 Interests</h2>
+<h2>💜 Interests</h2>
 
 - Reading
 - Movies (Louis Malle/Sean Baker/Ming-liang Tsai)
