@@ -30,7 +30,8 @@
 <h2>👩‍💻 About Me</h2>
 
 - I'm a second-year student at [Sheridan College](https://www.sheridancollege.ca/)
-- Currently I'm working as a co-op in [Ontario Ministry of Government and Consumer Services](https://www.ontario.ca/page/ministry-government-and-consumer-services)
+- I'm working as a co-op in [Ontario Ministry of Government and Consumer Services](https://www.ontario.ca/page/ministry-government-and-consumer-services)
+- Currently I'm learning ASP.NET, Vue.js & low-code development
 - I love coding & UX/UI design 🤓
 
 ###
@@ -39,7 +40,7 @@
 
 - `Java` `C#` `PHP` `JavaScript` `HTML` `CSS` `Vue.js` `ASP.NET MVC` `Bootstrap`
 - `SQL` `MySQL` `MongoDB`
-- `Power Platform` `Appian`
+- `Power Apps` `Power Automate` `Virtual Agent` `Appian`
 - `Figma` `Procreate` `Photoshop`
 
 ###
