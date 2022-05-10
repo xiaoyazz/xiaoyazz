@@ -4,9 +4,6 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/84748829/167523910-88bcce5d-e171-4afa-af20-faa9362b4df1.GIF" width="220"></p>
 
 ###
-
-    using System;
-
     namespace AboutMe
     {   
         class Me
