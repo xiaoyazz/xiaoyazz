@@ -36,7 +36,7 @@
 
 ###
 
-<h2>👾 Skills</h2>
+<h2>🌱 Skills</h2>
 
 - `Java` `C#` `PHP` `JavaScript` `HTML` `CSS` `Vue.js` `ASP.NET MVC` `Bootstrap`
 - `SQL` `MySQL` `MongoDB`
