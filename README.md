@@ -54,7 +54,7 @@
 <h2>💜 Interests</h2>
 
 - Reading
-- Movies (Louis Malle/Sean Baker/Ming-liang Tsai)
+- Movies (Louis Malle/Sean Baker/Andrea Arnold/Ming-liang Tsai)
 - Food
 - Video Games (Ace Attorney is THE BEST 👉)
 - Animals (I have a cat!)
