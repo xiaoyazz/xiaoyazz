@@ -21,12 +21,6 @@
 
 ###
 
-<h2>🌟 Goals</h2>
-
-- Become a full-stack web developer
-- Stay passionate & creative
-- Never stop learning
-
 ###
 
 <h2>💜 Interests</h2>
