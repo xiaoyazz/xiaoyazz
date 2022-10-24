@@ -3,28 +3,6 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/84748829/167641084-10e8231b-0087-4bcc-95ac-0975da71d81f.GIF" width="220"></p>
 
-###
-    namespace AboutMe
-
-    {   
-        class Me
-
-            string name = "Xiaoya Zou";
-            string firstName = "My first name can be pronounced as 'Shiao-ya'🙂";
-            string education = "Software Development & Network Engineering Student at Sheridan College";
-            string coop = "Low-code Application Developer (Jan 2022 - Present)";
-            string greetings = "✨ Thanks for dropping by ✨";
-
-            static void Main(string[] args)
-            {
-                Me Xiaoya = new Me();
-                Console.WriteLine(Xiaoya.greetings);
-            }
-        }
-    }
-    
-### 
-
 <h2>👩‍💻 About Me</h2>
 
 - I'm a second-year student at [Sheridan College](https://www.sheridancollege.ca/)
@@ -36,7 +14,7 @@
 
 <h2>🌱 Skills</h2>
 
-- `Java` `C#` `PHP` `JavaScript` `Vue.js` `ASP.NET MVC` `ASP.NET Core Blazor` `HTML` `CSS` `Bootstrap`
+- `Java` `C` `C#` `PHP` `JavaScript` `Vue.js` `ASP.NET MVC` `ASP.NET Core Blazor` `HTML` `CSS` `Bootstrap`
 - `SQL` `MySQL` `MongoDB`
 - `Power Apps` `Power Automate` `Virtual Agent` `Appian`
 - `Figma` `Procreate` `Photoshop`
