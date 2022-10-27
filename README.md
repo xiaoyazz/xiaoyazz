@@ -5,10 +5,11 @@
 
 <h2>🦕 About Me</h2>
 
+- My first name is pronounced as "Shi-ao-ya" 😃
 - I'm a second-year student at [Sheridan College](https://www.sheridancollege.ca/)
 - I'm working as a co-op in [Ontario Ministry of Government and Consumer Services](https://www.ontario.ca/page/ministry-government-and-consumer-services)
 - Currently I'm learning ASP.NET, Vue.js & low-code development
-- I love coding & UX/UI design 🤓
+- I love coding & UX/UI design 👩‍💻
 
 ###
 
