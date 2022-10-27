@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/84748829/167641084-10e8231b-0087-4bcc-95ac-0975da71d81f.GIF" width="220"></p>
 
-<h2>👩‍💻 About Me</h2>
+<h2>🦕 About Me</h2>
 
 - I'm a second-year student at [Sheridan College](https://www.sheridancollege.ca/)
 - I'm working as a co-op in [Ontario Ministry of Government and Consumer Services](https://www.ontario.ca/page/ministry-government-and-consumer-services)
