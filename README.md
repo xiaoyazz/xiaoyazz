@@ -7,8 +7,8 @@
 
 - My first name is pronounced as "Shi-ao-ya" 😃
 - I'm a second-year student at [Sheridan College](https://www.sheridancollege.ca/)
-- I'm working as a co-op in [Ontario Ministry of Government and Consumer Services](https://www.ontario.ca/page/ministry-government-and-consumer-services)
-- Currently I'm learning ASP.NET, Vue.js & low-code development
+- I worked as a co-op in [Ontario Ministry of Government and Consumer Services](https://www.ontario.ca/page/ministry-government-and-consumer-services) (Jan 2022 - Sep 2022)
+- Currently I'm learning data structures and algorithms in C
 - I love coding & UX/UI design 👩‍💻
 
 ###
@@ -30,7 +30,7 @@
 - Movies (Louis Malle/Sean Baker/Andrea Arnold/Ming-liang Tsai)
 - Food
 - Video Games (Ace Attorney is THE BEST 👉)
-- Animals (I have a cat!)
+- Animals (I have a cat（Φ ω Φ）)
 
 ###
 
