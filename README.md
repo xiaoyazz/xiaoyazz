@@ -7,7 +7,7 @@
 
 - My first name is pronounced as "Shi-ao-ya" 😃
 - I'm a second-year student at [Sheridan College](https://www.sheridancollege.ca/)
-- I worked as a co-op in [Ontario Ministry of Government and Consumer Services](https://www.ontario.ca/page/ministry-government-and-consumer-services) (Jan 2022 - Sep 2022)
+- I worked as a co-op developer in [Ontario Ministry of Government and Consumer Services](https://www.ontario.ca/page/ministry-government-and-consumer-services) (Jan 2022 - Sep 2022)
 - Currently I'm learning data structures and algorithms in C
 - I love coding & UX/UI design 👩‍💻
 
