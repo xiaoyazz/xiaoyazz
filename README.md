@@ -15,7 +15,7 @@
 
 <h2>🌱 Skills</h2>
 
-- `Java` `C` `C#` `PHP` `JavaScript` `Vue.js` `ASP.NET MVC` `ASP.NET Core Blazor` `HTML` `CSS` `Bootstrap`
+- `Java` `C` `C#` `PHP` `JavaScript` `Angular` `Vue.js` `ASP.NET MVC` `ASP.NET Core Blazor` `HTML` `CSS` `Bootstrap`
 - `SQL` `MySQL` `MongoDB`
 - `Power Apps` `Power Automate` `Virtual Agent` `Appian`
 - `Figma` `Procreate` `Photoshop`
