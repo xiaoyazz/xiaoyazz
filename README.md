@@ -28,9 +28,5 @@
 - Video Games (Ace Attorney is THE BEST 👉)
 - Animals (I have a cat（Φ ω Φ）)
 
-###
-
-<h2>🌎 Connect</h2>
-
 [![GITHUB](https://img.shields.io/badge/inkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xiaoyazou/)
 
