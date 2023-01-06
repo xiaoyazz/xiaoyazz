@@ -8,7 +8,7 @@
 - My first name is pronounced as "Shi-ao-ya" 😃
 - I'm a third-year student at [Sheridan College](https://www.sheridancollege.ca/)
 - I worked as a co-op developer in [Ministry of Public and Business Service Delivery](https://www.ontario.ca/page/ministry-government-and-consumer-services) (Jan 2022 - Sep 2022)
-- I love coding & UX/UI design 👩‍💻
+- I love coding & UX/UI design 👩‍💻 My website:https://xiaoyazz.github.io/XiaoyaZou/
 
 ###
 
