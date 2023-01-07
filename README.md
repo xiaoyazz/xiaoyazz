@@ -5,4 +5,4 @@
   
 🍰 I enjoy movies, reading, cooking, and video games. I have a cat named Kami (=^ ◡ ^=) 
   
-💜 This is [my website](https://xiaoyazz.github.io/XiaoyaZou/). Hope you enjoy:)
+💜 Feel free to visit [my website](https://xiaoyazz.github.io/XiaoyaZou/). Hope you enjoy:)
