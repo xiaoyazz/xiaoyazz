@@ -3,6 +3,6 @@
 # Hello!
 🌈 My name is Xiaoya _(she/her)_. I'm a third-year student at Sheridan College and I love making things.  
   
-🍰 I enjoy movies, reading, cooking, and video games. I have a cat named Kami (=^ ◡ ^=) 
+🌳 I enjoy movies, reading, cooking, and video games. I have a cat named Kami (=^ ◡ ^=) 
   
 💜 Feel free to visit [my website](https://xiaoyazz.github.io/XiaoyaZou/). I hope you enjoy!
