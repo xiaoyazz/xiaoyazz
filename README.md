@@ -3,6 +3,4 @@
 # Hello!
 🦕 My name is Xiaoya _(she/her)_.
   
-🎀 I like snowboarding, cycling, movies, reading, cooking, and video games. I have a cat named Kami (=^ ◡ ^=) 
-  
 👩🏻‍💻 Feel free to visit [my website](https://xiaoyazz.github.io/XiaoyaZou/). I hope you enjoy!
