@@ -3,4 +3,4 @@
 # Hello!
 🦕 My name is Xiaoya _(she/her)_.
   
-👩🏻‍💻 Feel free to visit [my website](https://xiaoyazz.github.io/XiaoyaZou/). I hope you enjoy!
+👩🏻‍💻 Feel free to visit [my website](https://xiaoyazz.github.io/xiaoya-v2/). I hope you enjoy!
